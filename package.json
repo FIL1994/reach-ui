@@ -1,0 +1,18 @@
+{
+  "name": "tooltip-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel -p 8080 index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@reach/tooltip": "^0.3.0",
+    "parcel-bundler": "^1.12.4",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  }
+}
